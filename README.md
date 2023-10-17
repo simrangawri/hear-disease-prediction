@@ -1,5 +1,4 @@
-# README Content
-readme_content = """
+
 # Heart Disease Prediction
 
 **Running the Code:**
